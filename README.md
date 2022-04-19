@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=blue)
 
 #### Github stats
-[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyedmahdiamin1998&count_private=true&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmahdiamin1998&hide=contribs,prs&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyedmahdiamin1998&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmahdiamin1998&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
