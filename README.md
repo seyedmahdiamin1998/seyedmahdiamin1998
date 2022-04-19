@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #### Profile visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=blue)
