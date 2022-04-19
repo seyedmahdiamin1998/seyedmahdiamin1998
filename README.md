@@ -3,10 +3,10 @@
 <!--
 **seyedmahdiamin1998/seyedmahdiamin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+<img align="left" src="https://e7.pngegg.com/pngimages/574/93/png-clipart-leonardo-raphael-michaelangelo-donatello-splinter-teenage-mutant-ninja-turtles-comics-superhero.png" height="230px" >
 -->
-
-
-![pngegg (1)](https://user-images.githubusercontent.com/97868561/164077816-38bfa515-328f-40df-83e1-8f4832d6f447.png)
+<img align="left" src=![pngegg (1)](https://user-images.githubusercontent.com/97868561/164077816-38bfa515-328f-40df-83e1-8f4832d6f447.png) height="230px" >
 
 
 - 💻 I have a Bachelor of Statistics and applications degree from Ferdowsi University of Mashhad
