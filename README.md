@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 -->
 <img align="left" src="https://user-images.githubusercontent.com/97868561/164077816-38bfa515-328f-40df-83e1-8f4832d6f447.png" height="230px">
 
+### About me:
 
 - 💻 I have a Bachelor of Statistics and applications degree from Ferdowsi University of Mashhad
 - 🌱 I’m currently learning Apache Spark
