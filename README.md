@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://github.com/seyedmahdiamin1998/seyedmahdiamin1998/files/8515930/Seyedmahdi.Amin.pdf)  
 
 
-
+<br>
 #### Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=blue)
 
