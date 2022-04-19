@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 #### Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=blue)
+
+#### Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmahdiamin1998&hide=contribs,prs&layout=Gradient)](https://github.com/anuraghazra/github-readme-stats)
