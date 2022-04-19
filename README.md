@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 💻 I have a Bachelor of Statistics and applications degree from Ferdowsi University of Mashhad
 - 🌱 I’m currently learning Apache Spark
 - 💬 Ask me about Data Science
-- 📫 How to reach me: seyedmahdiamin1998@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: https://www.linkedin.com/in/seyedmahdiamin/
+[![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=afshinshah77&labelColor=313131&color=313131)](mailto:seyedmahdiamin1998@gmail.com)
+[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://github.com/seyedmahdiamin1998/seyedmahdiamin1998/files/8515930/Seyedmahdi.Amin.pdf)  
+
+
 
 #### Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=seyedmahdiamin1998.seyedmahdiamin1998&left_color=green&right_color=blue)
