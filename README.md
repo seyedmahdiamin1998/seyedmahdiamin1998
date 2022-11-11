@@ -8,16 +8,17 @@ Here are some ideas to get you started:
 -->
 <!-- <img align="left" src="https://user-images.githubusercontent.com/97868561/164077816-38bfa515-328f-40df-83e1-8f4832d6f447.png" height="230px"> -->
 <img src="https://user-images.githubusercontent.com/97868561/168478637-14c11570-78bd-49d9-8cd3-3a64d8a7ad3e.jpg" height="">
+[Uploading Seyedmahdi Amin(DataScientist).pdf…]()
 
 ### About me:
 
 - 💻 I have a Bachelor of Statistics and applications degree from Ferdowsi University of Mashhad
-- 🌱 I’m currently learning Apache Spark
+- 🌱 I’m currently learning MLOps
 - 💬 Ask me about Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/seyedmahdiamin/
 
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=seyedmahdiamin1998&labelColor=313131&color=313131)](mailto:seyedmahdiamin1998@gmail.com)
-[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://github.com/seyedmahdiamin1998/seyedmahdiamin1998/files/8916482/SeyedmahdiAmin-DataScientist.pdf)
+[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)]
 
 <br />
 
