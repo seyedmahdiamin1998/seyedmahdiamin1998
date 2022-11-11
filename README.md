@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=seyedmahdiamin1998&labelColor=313131&color=313131)](mailto:seyedmahdiamin1998@gmail.com)
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)]
-[Seyedmahdi Amin(DataScientist).pdf](https://github.com/seyedmahdiamin1998/seyedmahdiamin1998/files/9992181/Seyedmahdi.Amin.DataScientist.pdf)
+(https://github.com/seyedmahdiamin1998/seyedmahdiamin1998/files/9992181/Seyedmahdi.Amin.DataScientist.pdf)
 
 <br />
 
